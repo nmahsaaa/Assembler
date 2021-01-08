@@ -1,0 +1,42 @@
+c:\users\shrservice\documents\visual studio 2012\Projects\assembler\assembler\bin\Debug\assembler.exe.config
+c:\users\shrservice\documents\visual studio 2012\Projects\assembler\assembler\bin\Debug\assembler.exe
+c:\users\shrservice\documents\visual studio 2012\Projects\assembler\assembler\bin\Debug\assembler.pdb
+c:\users\shrservice\documents\visual studio 2012\Projects\assembler\assembler\obj\Debug\assembler.csprojResolveAssemblyReference.cache
+c:\users\shrservice\documents\visual studio 2012\Projects\assembler\assembler\obj\Debug\assembler.Properties.Resources.resources
+c:\users\shrservice\documents\visual studio 2012\Projects\assembler\assembler\obj\Debug\assembler.csproj.GenerateResource.Cache
+c:\users\shrservice\documents\visual studio 2012\Projects\assembler\assembler\obj\Debug\assembler.exe
+c:\users\shrservice\documents\visual studio 2012\Projects\assembler\assembler\obj\Debug\assembler.pdb
+c:\users\shrservice\documents\visual studio 2012\Projects\assembler\assembler\obj\Debug\assembler.Assembler.resources
+C:\Users\user\Desktop\New folder\assembler (4)\assembler\assembler\bin\Debug\assembler.exe.config
+C:\Users\user\Desktop\New folder\assembler (4)\assembler\assembler\obj\Debug\assembler.exe
+C:\Users\user\Desktop\New folder\assembler (4)\assembler\assembler\obj\Debug\assembler.pdb
+C:\Users\user\Desktop\New folder\assembler (4)\assembler\assembler\bin\Debug\assembler.exe
+C:\Users\user\Desktop\New folder\assembler (4)\assembler\assembler\bin\Debug\assembler.pdb
+C:\Users\user\Desktop\New folder\assembler (4)\assembler\assembler\obj\Debug\assembler.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\New folder\assembler (4)\assembler\assembler\obj\Debug\assembler.Assembler.resources
+C:\Users\user\Desktop\New folder\assembler (4)\assembler\assembler\obj\Debug\assembler.Properties.Resources.resources
+C:\Users\user\Desktop\New folder\assembler (4)\assembler\assembler\obj\Debug\assembler.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\FINAL CASEEEE\assembler (4)\assembler\assembler\bin\Debug\assembler.exe.config
+C:\Users\user\Desktop\FINAL CASEEEE\assembler (4)\assembler\assembler\obj\Debug\assembler.exe
+C:\Users\user\Desktop\FINAL CASEEEE\assembler (4)\assembler\assembler\obj\Debug\assembler.pdb
+C:\Users\SHRservice\Downloads\Telegram Desktop\FINAL CASEEEE\FINAL CASEEEE\assembler (4)\assembler\assembler\bin\Debug\assembler.exe.config
+C:\Users\SHRservice\Downloads\Telegram Desktop\FINAL CASEEEE\FINAL CASEEEE\assembler (4)\assembler\assembler\obj\Debug\assembler.exe
+C:\Users\SHRservice\Downloads\Telegram Desktop\FINAL CASEEEE\FINAL CASEEEE\assembler (4)\assembler\assembler\obj\Debug\assembler.pdb
+C:\Users\SHRservice\Downloads\Telegram Desktop\FINAL CASEEEE\FINAL CASEEEE\assembler (4)\assembler\assembler\obj\Debug\assembler.csprojResolveAssemblyReference.cache
+C:\Users\SHRservice\Downloads\Telegram Desktop\FINAL CASEEEE\FINAL CASEEEE\assembler (4)\assembler\assembler\obj\Debug\assembler.Assembler.resources
+C:\Users\SHRservice\Downloads\Telegram Desktop\FINAL CASEEEE\FINAL CASEEEE\assembler (4)\assembler\assembler\obj\Debug\assembler.Properties.Resources.resources
+C:\Users\SHRservice\Downloads\Telegram Desktop\FINAL CASEEEE\FINAL CASEEEE\assembler (4)\assembler\assembler\obj\Debug\assembler.csproj.GenerateResource.Cache
+C:\Users\SHRservice\Downloads\Telegram Desktop\FINAL CASEEEE\FINAL CASEEEE\assembler (4)\assembler\assembler\bin\Debug\assembler.exe
+C:\Users\SHRservice\Downloads\Telegram Desktop\FINAL CASEEEE\FINAL CASEEEE\assembler (4)\assembler\assembler\bin\Debug\assembler.pdb
+C:\Users\user\Desktop\FINAL CASEEEE\assembler (4)\assembler\assembler\bin\Debug\assembler.exe
+C:\Users\user\Desktop\FINAL CASEEEE\assembler (4)\assembler\assembler\bin\Debug\assembler.pdb
+C:\Users\user\Desktop\FINAL CASEEEE\assembler (4)\assembler\assembler\obj\Debug\assembler.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\FINAL CASEEEE\assembler (4)\assembler\assembler\obj\Debug\assembler.Assembler.resources
+C:\Users\user\Desktop\FINAL CASEEEE\assembler (4)\assembler\assembler\obj\Debug\assembler.Properties.Resources.resources
+C:\Users\user\Desktop\FINAL CASEEEE\assembler (4)\assembler\assembler\obj\Debug\assembler.csproj.GenerateResource.Cache
+C:\Users\Mahsa\Desktop\Academic\Term4\Computer Architecture\Proje Memari\FINAL CASEEEE\assembler (4)\assembler\assembler\bin\Debug\assembler.exe.config
+C:\Users\Mahsa\Desktop\Academic\Term4\Computer Architecture\Proje Memari\FINAL CASEEEE\assembler (4)\assembler\assembler\obj\Debug\assembler.exe
+C:\Users\Mahsa\Desktop\Academic\Term4\Computer Architecture\Proje Memari\FINAL CASEEEE\assembler (4)\assembler\assembler\obj\Debug\assembler.pdb
+C:\Users\Mahsa\Desktop\Academic\Term4\ComputerArchitecture\ProjeMemari\FINALCASEEEE\assembler(4)\assembler\assembler\bin\Debug\assembler.exe.config
+C:\Users\Mahsa\Desktop\Academic\Term4\ComputerArchitecture\ProjeMemari\FINALCASEEEE\assembler(4)\assembler\assembler\obj\Debug\assembler.exe
+C:\Users\Mahsa\Desktop\Academic\Term4\ComputerArchitecture\ProjeMemari\FINALCASEEEE\assembler(4)\assembler\assembler\obj\Debug\assembler.pdb
